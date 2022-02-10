@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Terminus2021/ilibilib/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Terminus2021/ilibilib/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Bilibili备份计划
+编者言：  
+哔哩哔哩（https://www.bilibili.com ，又称“B站”）是中国大陆最流行的视频分享网站（video sharing site），但是由于国家法律及B站条例的规定，有大量珍贵的作品流失。  
+本站旨在将这些零散的备份集中起来，让那些消失的B站视频、专栏重见天日。  
+本站使用av号作为permalink，暂不支持bv号。被删的bv视频请转换为av号后再备份。  
+如果你要收看备份上的视频，请在浏览器中输入：https://terminus2021.github.io/ilibilib/video/avxxxxxxx.mp4 ，专栏则是https://terminus2021.github.io/ilibilib/read/cvxxxxx.md 。  
+Editor's note:
+Bilibili（ https://www.bilibili.com Also known as "Site B(Chinese Pinyin: b zhan，B站)" is the most popular video sharing site in Chinese mainland. However, due to the provisions of national laws and Bilibili regulations, a large number of valuable works have been lost.<br>
+This site aims to centralize these scattered backups, so that those disappeared videos and columns of Bilibili can be seen again.<br>
+This site uses AV number as permalink, and bv number is not supported temporarily. Please convert the deleted bv video to AV number and then back up.<br>
+If you want to watch the video on the backup, please enter in the browser: https://terminus2021.github.io/ilibilib/video/avxxxxxxx.mp4 , the column is https://terminus2021.github.io/ilibilib/read/cvxxxxx.md 。
